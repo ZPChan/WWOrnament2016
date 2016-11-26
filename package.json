@@ -1,0 +1,22 @@
+{
+  "name": "ww-ornament-2016",
+  "version": "1.0.0",
+  "description": "W&W Ornamenet Contest 2016",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZPChan/WWOrnament2016.git"
+  },
+  "author": "Zach Putman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZPChan/WWOrnament2016/issues"
+  },
+  "homepage": "https://github.com/ZPChan/WWOrnament2016#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
